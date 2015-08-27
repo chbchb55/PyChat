@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=PyChat
 Comment=Echo Chat
-Exec=python /home/anonymous/Dekstop/PyChat/client.py
+Exec=python /home/anonymous/Desktop/PyChat/client.py
 Icon=/home/anonymous/Desktop/PyChat/icon.png
 Terminal=true
 Type=Application
