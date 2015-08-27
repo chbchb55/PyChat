@@ -295,8 +295,8 @@ def main():
     t.start()
 
 tmp = initscr().getmaxyx(); endwin()
-if tmp[0] >= 15 and tmp[1] >= 91:
+if tmp[0] >= 30 and tmp[1] >= 95:
     main()
 else:
-    print 'Please resize your Terminal to or above \'15 Tall\' and \'91 Wide\''
+    print 'Please resize your Terminal to or above \'30 Tall\' and \'95 Wide\''
     exit()
